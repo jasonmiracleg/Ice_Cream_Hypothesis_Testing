@@ -1,121 +1,121 @@
 Franchise ID,Franchise Name,City,Country,Number of Employees,Revenue,Profit,Expenses,Customer Satisfaction Score,Number of Transactions,Marketing Spent,Pre-Marketing Visitors,Post-Marketing Visitors
-1,Cold Stone Creamery,New York,USA,17,150000,60000,90000,4.5,500,2000,500,1000
-2,Baskin-Robbins,Los Angeles,USA,12,120000,50000,70000,4.3,450,1800,400,900
-3,Dairy Queen,Chicago,USA,20,180000,75000,105000,4.2,550,2200,600,1100
-4,Ben & Jerry's,Miami,USA,24,140000,58000,82000,4.6,480,1900,450,950
-5,Haagen-Dazs,San Francisco,USA,12,100000,40000,60000,4.4,400,1600,350,800
-6,Carvel Ice Cream,Orlando,USA,22,160000,65000,95000,4.1,520,2100,500,1000
-7,Bruster's Real Ice Cream,Dallas,USA,17,130000,54000,76000,4.3,470,1850,400,900
-8,Oberweis Dairy,Houston,USA,18,145000,60000,85000,4.5,490,1950,450,950
-9,MaggieMoo's Ice Cream,Seattle,USA,13,115000,48000,67000,4.2,430,1700,350,800
-10,Marble Slab Creamery,Atlanta,USA,22,155000,63000,92000,4.4,510,2050,500,1000
-11,Creamistry,Denver,USA,22,125000,52000,73000,4.3,460,1800,400,900
-12,Menchies Frozen Yogurt,Phoenix,USA,15,165000,68000,97000,4.5,500,2000,500,1000
-13,TCBY,Philadelphia,USA,19,110000,45000,65000,4.2,420,1650,350,800
-14,Sweet Republic,San Diego,USA,10,170000,70000,100000,4.6,530,2150,500,1000
-15,Salt & Straw,Portland,USA,24,140000,58000,82000,4.4,480,1900,450,950
-16,Gelato Secrets,Jakarta,Indonesia,16,80000,32000,48000,4.2,300,1200,250,600
-17,Holy Gelato,Bali,Indonesia,15,70000,28000,42000,4.1,280,1100,230,550
-18,Gaya Gelato,Yogyakarta,Indonesia,23,90000,36000,54000,4.3,320,1300,270,650
-19,Gelato Factory,Surabaya,Indonesia,20,100000,40000,60000,4.4,350,1400,300,700
-20,Gelato Bar,Medan,Indonesia,19,85000,34000,51000,4.2,310,1250,260,620
-21,Gelato Fino,Bandung,Indonesia,14,75000,30000,45000,4,270,1050,220,500
-22,The Ice Cream Parlour,Semarang,Indonesia,25,95000,38000,57000,4.4,330,1350,280,670
-23,Gelato La Dolce Vita,Makassar,Indonesia,11,97500,39000,58500,4.5,340,1375,290,690
-24,Gelato Gourmet,Palembang,Indonesia,11,80000,32000,48000,4.1,300,1200,250,600
-25,Il Gelato Jogja,Bandung,Indonesia,23,90000,36000,54000,4.3,320,1300,270,650
-26,Gelato Signature,Surabaya,Indonesia,14,100000,40000,60000,4.4,350,1400,300,700
-27,Gelato Bliss,Jakarta,Indonesia,10,85000,34000,51000,4.2,310,1250,260,620
-28,Gelato Grotto,Bali,Indonesia,8,75000,30000,45000,4,270,1050,220,500
-29,Gelato Galleria,Medan,Indonesia,21,95000,38000,57000,4.4,330,1350,280,670
-30,Gelato Amore,Semarang,Indonesia,16,97500,39000,58500,4.5,340,1375,290,690
-31,Haagen-Dazs,Beijing,China,16,150000,60000,90000,4.5,500,2000,500,1000
-32,Dairy Queen,Shanghai,China,13,120000,50000,70000,4.3,450,1800,400,900
-33,Baskin-Robbins,Guangzhou,China,12,180000,75000,105000,4.2,550,2200,600,1100
-34,Snow King Ice Cream,Shenzhen,China,21,140000,58000,82000,4.6,480,1900,450,950
-35,Chillout Ice Cream,Chengdu,China,23,100000,40000,60000,4.4,400,1600,350,800
-36,Mr. Cool Ice Cream,Nanjing,China,15,160000,65000,95000,4.1,520,2100,500,1000
-37,Frosty Freeze Ice Cream,Hangzhou,China,20,130000,54000,76000,4.3,470,1850,400,900
-38,Frozen Fantasy,Ice Cream,Tianjin,20,145000,60000,85000,4.5,490,1950,450,950
-39,Golden Swirl Ice Cream,Xiamen,China,19,115000,48000,67000,4.2,430,1700,350,800
-40,Happy Cones Ice Cream,Chongqing,China,12,155000,63000,92000,4.4,510,2050,500,1000
-41,Chill Factor Ice Cream,Harbin,China,23,125000,52000,73000,4.3,460,1800,400,900
-42,Arctic Delight Ice Cream,Kunming,China,21,165000,68000,97000,4.5,500,2000,500,1000
-43,Blue Lagoon Ice Cream,Qingdao,China,22,110000,45000,65000,4.2,420,1650,350,800
-44,Cherry on Top Ice Cream,Shijiazhuang,China,11,170000,70000,100000,4.6,530,2150,500,1000
-45,Creamy Dreamy Ice Cream,Wuhan,China,12,140000,58000,82000,4.4,480,1900,450,950
-46,Baskin-Robbins,Sydney,Australia,14,150000,60000,90000,4.5,500,2000,500,1000
-47,Gelato Messina,Melbourne,Australia,19,120000,50000,70000,4.3,450,1800,400,900
-48,New Zealand Natural,Brisbane,Australia,24,180000,75000,105000,4.2,550,2200,600,1100
-49,Cold Rock Ice Creamery,Perth,Australia,20,140000,58000,82000,4.6,480,1900,450,950
-50,Mr. Whippy,Adelaide,Australia,19,100000,40000,60000,4.4,400,1600,350,800
-51,Gelatissimo,Gold Coast,Australia,14,160000,65000,95000,4.1,520,2100,500,1000
-52,Mojo's Weird Pizza and Ice Cream,Hobart,Australia,25,130000,54000,76000,4.3,470,1850,400,900
-53,Il Gelato,Gosford,Australia,19,145000,60000,85000,4.5,490,1950,450,950
-54,Gelato Blue,Newcastle,Australia,15,115000,48000,67000,4.2,430,1700,350,800
-55,Freddo's Gelato,Canberra,Australia,10,155000,63000,92000,4.4,510,2050,500,1000
-56,Chocolateria San Churro,Geelong,Australia,18,125000,52000,73000,4.3,460,1800,400,900
-57,Gelato Messina,Parramatta,Australia,18,165000,68000,97000,4.5,500,2000,500,1000
-58,The Lab Food + Coffee,Darwin,Australia,13,110000,45000,65000,4.2,420,1650,350,800
-59,Anita's Theatre,Kalgoorlie,Australia,11,170000,70000,100000,4.6,530,2150,500,1000
-60,Luca's Gelateria,Cairns,Australia,14,140000,58000,82000,4.4,480,1900,450,950
-61,Eiscafe Dolomiti,Berlin,Germany,20,150000,60000,90000,4.5,500,2000,500,1000
-62,San Remo Eisdiele,Hamburg,Germany,9,120000,50000,70000,4.3,450,1800,400,900
-63,Da Vinci Eiscafe,Munich,Germany,11,180000,75000,105000,4.2,550,2200,600,1100
-64,Tosca Eiscafe,Cologne,Germany,8,140000,58000,82000,4.6,480,1900,450,950
-65,Eiscafe Venezia,Frankfurt,Germany,8,100000,40000,60000,4.4,400,1600,350,800
-66,Luigi's Gelateria,Dusseldorf,Germany,14,160000,65000,95000,4.1,520,2100,500,1000
-67,Gelateria La Luna,Stuttgart,Germany,19,130000,54000,76000,4.3,470,1850,400,900
-68,Il Gelato Hamburg,Hannover,Germany,23,145000,60000,85000,4.5,490,1950,450,950
-69,Eiscafe Roma,Bremen,Germany,12,115000,48000,67000,4.2,430,1700,350,800
-70,Sweet Time Eiscafe,Leipzig,Germany,24,155000,63000,92000,4.4,510,2050,500,1000
-71,Eiscafe Cortina,Dortmund,Germany,25,125000,52000,73000,4.3,460,1800,400,900
-72,Gelateria Belluno,Essen,Germany,22,165000,68000,97000,4.5,500,2000,500,1000
-73,Il Gelato Pisa,Bremen,Germany,9,110000,45000,65000,4.2,420,1650,350,800
-74,Eiscafe Venezia,Bonn,Germany,10,170000,70000,100000,4.6,530,2150,500,1000
-75,Gelateria Toscana,Munster,Germany,10,140000,58000,82000,4.4,480,1900,450,950
-76,Marble Slab Creamery,Toronto,Canada,9,150000,60000,90000,4.5,500,2000,500,1000
-77,Baskin-Robbins,Montreal,Canada,25,120000,50000,70000,4.3,450,1800,400,900
-78,Cold Stone Creamery,Vancouver,Canada,23,180000,75000,105000,4.2,550,2200,600,1100
-79,Dairy Queen,Calgary,Canada,24,140000,58000,82000,4.6,480,1900,450,950
-80,Tim Hortons,Ottawa,Canada,15,100000,40000,60000,4.4,400,1600,350,800
-81,Sweet Jesus,Iqaluit,Canada,24,160000,65000,95000,4.1,520,2100,500,1000
-82,Scoops Ice Cream,Whitehorse,Canada,12,130000,54000,76000,4.3,470,1850,400,900
-83,Beavertails,Oshawa,Canada,14,145000,60000,85000,4.5,490,1950,450,950
-84,Kawartha Dairy,Peterborough,Canada,17,115000,48000,67000,4.2,430,1700,350,800
-85,Cows Ice Cream,Charlottetown,Canada,23,155000,63000,92000,4.4,510,2050,500,1000
-86,Dutch Dreams,Toronto,Canada,24,125000,52000,73000,4.3,460,1800,400,900
-87,Laura Secord,Toronto,Canada,25,165000,68000,97000,4.5,500,2000,500,1000
-88,Scooper's Ice Cream Shop,St. John's,Canada,20,110000,45000,65000,4.2,420,1650,350,800
-89,Merry Dairy,Ottawa,Canada,9,170000,70000,100000,4.6,530,2150,500,1000
-90,Rocky Mountain Chocolate Factory,Victoria,Canada,17,140000,58000,82000,4.4,480,1900,450,950
-91,Gelateria Giolitti,Rome,Italy,10,150000,60000,90000,4.5,500,2000,500,1000
-92,Gelateria Della Palma,Florence,Italy,14,120000,50000,70000,4.3,450,1800,400,900
-93,Grom,Turin,Italy,11,180000,75000,105000,4.2,550,2200,600,1100
-94,Gelateria La Carraia,Venice,Italy,21,140000,58000,82000,4.6,480,1900,450,950
-95,Gelateria De' Medici,Milan,Italy,8,100000,40000,60000,4.4,400,1600,350,800
-96,Il Gelatauro,Naples,Italy,14,160000,65000,95000,4.1,520,2100,500,1000
-97,Gelateria dei Neri,Bologna,Italy,17,130000,54000,76000,4.3,470,1850,400,900
-98,Gelateria dell'Olmo,Palermo,Italy,11,145000,60000,85000,4.5,490,1950,450,950
-99,Gelateria dei Gracchi,Genoa,Italy,21,115000,48000,67000,4.2,430,1700,350,800
-100,Gelateria Fatamorgana,Rome,Italy,8,155000,63000,92000,4.4,510,2050,500,1000
-101,Gelateria dell'Angeletto,Florence,Italy,22,125000,52000,73000,4.3,460,1800,400,900
-102,Gelateria Alaska,Turin,Italy,23,165000,68000,97000,4.5,500,2000,500,1000
-103,Gelateria dei Neri,Venice,Italy,10,110000,45000,65000,4.2,420,1650,350,800
-104,Gelateria Venchi,Milan,Italy,9,170000,70000,100000,4.6,530,2150,500,1000
-105,Gelateria Grom,Naples,Italy,12,140000,58000,82000,4.4,480,1900,450,950
-106,Baskin-Robbins,Moscow,Russia,14,150000,60000,90000,4.5,500,2000,500,1000
-107,Dairy Queen,Saint Petersburg,Russia,20,120000,50000,70000,4.3,450,1800,400,900
-108,Cold Stone Creamery,Novosibirsk,Russia,15,180000,75000,105000,4.2,550,2200,600,1100
-109,Timberwolves Ice Cream,Ekaterinburg,Russia,15,140000,58000,82000,4.6,480,1900,450,950
-110,Mr. Creamy,Irkutsk,Russia,23,100000,40000,60000,4.4,400,1600,350,800
-111,Scoops 'n Smiles,Kazan,Russia,9,160000,65000,95000,4.1,520,2100,500,1000
-112,Frosty Cone,Chelyabinsk,Russia,13,130000,54000,76000,4.3,470,1850,400,900
-113,Ice Castle,Volgograd,Russia,8,145000,60000,85000,4.5,490,1950,450,950
-114,Chill Zone,Rostov-on-Don,Russia,17,115000,48000,67000,4.2,430,1700,350,800
-115,Gelato Gusto,Samara,Russia,9,155000,63000,92000,4.4,510,2050,500,1000
-116,Freeze Frame,Omsk,Russia,22,125000,52000,73000,4.3,460,1800,400,900
-117,Arctic Delight,Tyumen,Russia,18,165000,68000,97000,4.5,500,2000,500,1000
-118,Frosty Treats,Krasnoyarsk,Russia,11,110000,45000,65000,4.2,420,1650,350,800
-119,Ice Cream Dream,Yekaterinburg,Russia,19,170000,70000,100000,4.6,530,2150,500,1000
-120,Sweet Scoops,Nizhny Novgorod,Russia,8,140000,58000,82000,4.4,480,1900,450,950
+1,Cold Stone Creamery,New York,USA,17,150000,60000,90000,4.5,500,2000,583,870
+2,Baskin-Robbins,Los Angeles,USA,12,120000,50000,70000,4.3,450,1800,354,549
+3,Dairy Queen,Chicago,USA,20,180000,75000,105000,4.2,550,2200,427,520
+4,Ben & Jerry's,Miami,USA,24,140000,58000,82000,4.6,480,1900,596,673
+5,Haagen-Dazs,San Francisco,USA,12,100000,40000,60000,4.4,400,1600,595,675
+6,Carvel Ice Cream,Orlando,USA,22,160000,65000,95000,4.1,520,2100,597,665
+7,Bruster's Real Ice Cream,Dallas,USA,17,130000,54000,76000,4.3,470,1850,572,874
+8,Oberweis Dairy,Houston,USA,18,145000,60000,85000,4.5,490,1950,544,566
+9,MaggieMoo's Ice Cream,Seattle,USA,13,115000,48000,67000,4.2,430,1700,522,878
+10,Marble Slab Creamery,Atlanta,USA,22,155000,63000,92000,4.4,510,2050,564,1100
+11,Creamistry,Denver,USA,22,125000,52000,73000,4.3,460,1800,504,904
+12,Menchies Frozen Yogurt,Phoenix,USA,15,165000,68000,97000,4.5,500,2000,296,815
+13,TCBY,Philadelphia,USA,19,110000,45000,65000,4.2,420,1650,451,839
+14,Sweet Republic,San Diego,USA,10,170000,70000,100000,4.6,530,2150,449,859
+15,Salt & Straw,Portland,USA,24,140000,58000,82000,4.4,480,1900,302,623
+16,Gelato Secrets,Jakarta,Indonesia,16,80000,32000,48000,4.2,300,1200,297,645
+17,Holy Gelato,Bali,Indonesia,15,70000,28000,42000,4.1,280,1100,314,589
+18,Gaya Gelato,Yogyakarta,Indonesia,23,90000,36000,54000,4.3,320,1300,495,963
+19,Gelato Factory,Surabaya,Indonesia,20,100000,40000,60000,4.4,350,1400,378,1021
+20,Gelato Bar,Medan,Indonesia,19,85000,34000,51000,4.2,310,1250,546,743
+21,Gelato Fino,Bandung,Indonesia,14,75000,30000,45000,4,270,1050,295,1024
+22,The Ice Cream Parlour,Semarang,Indonesia,25,95000,38000,57000,4.4,330,1350,354,745
+23,Gelato La Dolce Vita,Makassar,Indonesia,11,97500,39000,58500,4.5,340,1375,389,537
+24,Gelato Gourmet,Palembang,Indonesia,11,80000,32000,48000,4.1,300,1200,385,507
+25,Il Gelato Jogja,Bandung,Indonesia,23,90000,36000,54000,4.3,320,1300,286,954
+26,Gelato Signature,Surabaya,Indonesia,14,100000,40000,60000,4.4,350,1400,535,716
+27,Gelato Bliss,Jakarta,Indonesia,10,85000,34000,51000,4.2,310,1250,281,970
+28,Gelato Grotto,Bali,Indonesia,8,75000,30000,45000,4,270,1050,294,643
+29,Gelato Galleria,Medan,Indonesia,21,95000,38000,57000,4.4,330,1350,540,988
+30,Gelato Amore,Semarang,Indonesia,16,97500,39000,58500,4.5,340,1375,295,707
+31,Haagen-Dazs,Beijing,China,16,150000,60000,90000,4.5,500,2000,408,800
+32,Dairy Queen,Shanghai,China,13,120000,50000,70000,4.3,450,1800,314,589
+33,Baskin-Robbins,Guangzhou,China,12,180000,75000,105000,4.2,550,2200,273,710
+34,Snow King Ice Cream,Shenzhen,China,21,140000,58000,82000,4.6,480,1900,474,535
+35,Chillout Ice Cream,Chengdu,China,23,100000,40000,60000,4.4,400,1600,428,598
+36,Mr. Cool Ice Cream,Nanjing,China,15,160000,65000,95000,4.1,520,2100,249,1015
+37,Frosty Freeze Ice Cream,Hangzhou,China,20,130000,54000,76000,4.3,470,1850,293,927
+38,Frozen Fantasy,Ice Cream,Tianjin,20,145000,60000,85000,4.5,490,1950,379,893
+39,Golden Swirl Ice Cream,Xiamen,China,19,115000,48000,67000,4.2,430,1700,490,571
+40,Happy Cones Ice Cream,Chongqing,China,12,155000,63000,92000,4.4,510,2050,510,501
+41,Chill Factor Ice Cream,Harbin,China,23,125000,52000,73000,4.3,460,1800,220,644
+42,Arctic Delight Ice Cream,Kunming,China,21,165000,68000,97000,4.5,500,2000,395,931
+43,Blue Lagoon Ice Cream,Qingdao,China,22,110000,45000,65000,4.2,420,1650,227,1100
+44,Cherry on Top Ice Cream,Shijiazhuang,China,11,170000,70000,100000,4.6,530,2150,525,744
+45,Creamy Dreamy Ice Cream,Wuhan,China,12,140000,58000,82000,4.4,480,1900,429,673
+46,Baskin-Robbins,Sydney,Australia,14,150000,60000,90000,4.5,500,2000,535,772
+47,Gelato Messina,Melbourne,Australia,19,120000,50000,70000,4.3,450,1800,307,552
+48,New Zealand Natural,Brisbane,Australia,24,180000,75000,105000,4.2,550,2200,458,944
+49,Cold Rock Ice Creamery,Perth,Australia,20,140000,58000,82000,4.6,480,1900,473,1098
+50,Mr. Whippy,Adelaide,Australia,19,100000,40000,60000,4.4,400,1600,356,890
+51,Gelatissimo,Gold Coast,Australia,14,160000,65000,95000,4.1,520,2100,580,528
+52,Mojo's Weird Pizza and Ice Cream,Hobart,Australia,25,130000,54000,76000,4.3,470,1850,482,996
+53,Il Gelato,Gosford,Australia,19,145000,60000,85000,4.5,490,1950,547,801
+54,Gelato Blue,Newcastle,Australia,15,115000,48000,67000,4.2,430,1700,301,919
+55,Freddo's Gelato,Canberra,Australia,10,155000,63000,92000,4.4,510,2050,258,749
+56,Chocolateria San Churro,Geelong,Australia,18,125000,52000,73000,4.3,460,1800,402,545
+57,Gelato Messina,Parramatta,Australia,18,165000,68000,97000,4.5,500,2000,577,1043
+58,The Lab Food + Coffee,Darwin,Australia,13,110000,45000,65000,4.2,420,1650,272,760
+59,Anita's Theatre,Kalgoorlie,Australia,11,170000,70000,100000,4.6,530,2150,393,876
+60,Luca's Gelateria,Cairns,Australia,14,140000,58000,82000,4.4,480,1900,428,616
+61,Eiscafe Dolomiti,Berlin,Germany,20,150000,60000,90000,4.5,500,2000,516,549
+62,San Remo Eisdiele,Hamburg,Germany,9,120000,50000,70000,4.3,450,1800,599,732
+63,Da Vinci Eiscafe,Munich,Germany,11,180000,75000,105000,4.2,550,2200,444,847
+64,Tosca Eiscafe,Cologne,Germany,8,140000,58000,82000,4.6,480,1900,403,557
+65,Eiscafe Venezia,Frankfurt,Germany,8,100000,40000,60000,4.4,400,1600,315,803
+66,Luigi's Gelateria,Dusseldorf,Germany,14,160000,65000,95000,4.1,520,2100,467,963
+67,Gelateria La Luna,Stuttgart,Germany,19,130000,54000,76000,4.3,470,1850,249,639
+68,Il Gelato Hamburg,Hannover,Germany,23,145000,60000,85000,4.5,490,1950,556,988
+69,Eiscafe Roma,Bremen,Germany,12,115000,48000,67000,4.2,430,1700,408,1082
+70,Sweet Time Eiscafe,Leipzig,Germany,24,155000,63000,92000,4.4,510,2050,572,511
+71,Eiscafe Cortina,Dortmund,Germany,25,125000,52000,73000,4.3,460,1800,475,837
+72,Gelateria Belluno,Essen,Germany,22,165000,68000,97000,4.5,500,2000,338,950
+73,Il Gelato Pisa,Bremen,Germany,9,110000,45000,65000,4.2,420,1650,268,967
+74,Eiscafe Venezia,Bonn,Germany,10,170000,70000,100000,4.6,530,2150,569,878
+75,Gelateria Toscana,Munster,Germany,10,140000,58000,82000,4.4,480,1900,434,823
+76,Marble Slab Creamery,Toronto,Canada,9,150000,60000,90000,4.5,500,2000,555,809
+77,Baskin-Robbins,Montreal,Canada,25,120000,50000,70000,4.3,450,1800,524,916
+78,Cold Stone Creamery,Vancouver,Canada,23,180000,75000,105000,4.2,550,2200,477,940
+79,Dairy Queen,Calgary,Canada,24,140000,58000,82000,4.6,480,1900,567,632
+80,Tim Hortons,Ottawa,Canada,15,100000,40000,60000,4.4,400,1600,406,507
+81,Sweet Jesus,Iqaluit,Canada,24,160000,65000,95000,4.1,520,2100,370,896
+82,Scoops Ice Cream,Whitehorse,Canada,12,130000,54000,76000,4.3,470,1850,225,1067
+83,Beavertails,Oshawa,Canada,14,145000,60000,85000,4.5,490,1950,318,1028
+84,Kawartha Dairy,Peterborough,Canada,17,115000,48000,67000,4.2,430,1700,375,904
+85,Cows Ice Cream,Charlottetown,Canada,23,155000,63000,92000,4.4,510,2050,230,689
+86,Dutch Dreams,Toronto,Canada,24,125000,52000,73000,4.3,460,1800,230,987
+87,Laura Secord,Toronto,Canada,25,165000,68000,97000,4.5,500,2000,527,640
+88,Scooper's Ice Cream Shop,St. John's,Canada,20,110000,45000,65000,4.2,420,1650,469,607
+89,Merry Dairy,Ottawa,Canada,9,170000,70000,100000,4.6,530,2150,435,969
+90,Rocky Mountain Chocolate Factory,Victoria,Canada,17,140000,58000,82000,4.4,480,1900,489,706
+91,Gelateria Giolitti,Rome,Italy,10,150000,60000,90000,4.5,500,2000,389,696
+92,Gelateria Della Palma,Florence,Italy,14,120000,50000,70000,4.3,450,1800,454,990
+93,Grom,Turin,Italy,11,180000,75000,105000,4.2,550,2200,471,580
+94,Gelateria La Carraia,Venice,Italy,21,140000,58000,82000,4.6,480,1900,261,718
+95,Gelateria De' Medici,Milan,Italy,8,100000,40000,60000,4.4,400,1600,583,768
+96,Il Gelatauro,Naples,Italy,14,160000,65000,95000,4.1,520,2100,511,524
+97,Gelateria dei Neri,Bologna,Italy,17,130000,54000,76000,4.3,470,1850,415,807
+98,Gelateria dell'Olmo,Palermo,Italy,11,145000,60000,85000,4.5,490,1950,567,1037
+99,Gelateria dei Gracchi,Genoa,Italy,21,115000,48000,67000,4.2,430,1700,273,652
+100,Gelateria Fatamorgana,Rome,Italy,8,155000,63000,92000,4.4,510,2050,278,541
+101,Gelateria dell'Angeletto,Florence,Italy,22,125000,52000,73000,4.3,460,1800,300,711
+102,Gelateria Alaska,Turin,Italy,23,165000,68000,97000,4.5,500,2000,483,541
+103,Gelateria dei Neri,Venice,Italy,10,110000,45000,65000,4.2,420,1650,376,670
+104,Gelateria Venchi,Milan,Italy,9,170000,70000,100000,4.6,530,2150,467,721
+105,Gelateria Grom,Naples,Italy,12,140000,58000,82000,4.4,480,1900,340,1038
+106,Baskin-Robbins,Moscow,Russia,14,150000,60000,90000,4.5,500,2000,503,656
+107,Dairy Queen,Saint Petersburg,Russia,20,120000,50000,70000,4.3,450,1800,407,760
+108,Cold Stone Creamery,Novosibirsk,Russia,15,180000,75000,105000,4.2,550,2200,516,802
+109,Timberwolves Ice Cream,Ekaterinburg,Russia,15,140000,58000,82000,4.6,480,1900,511,930
+110,Mr. Creamy,Irkutsk,Russia,23,100000,40000,60000,4.4,400,1600,426,833
+111,Scoops 'n Smiles,Kazan,Russia,9,160000,65000,95000,4.1,520,2100,555,934
+112,Frosty Cone,Chelyabinsk,Russia,13,130000,54000,76000,4.3,470,1850,522,756
+113,Ice Castle,Volgograd,Russia,8,145000,60000,85000,4.5,490,1950,341,656
+114,Chill Zone,Rostov-on-Don,Russia,17,115000,48000,67000,4.2,430,1700,590,704
+115,Gelato Gusto,Samara,Russia,9,155000,63000,92000,4.4,510,2050,269,505
+116,Freeze Frame,Omsk,Russia,22,125000,52000,73000,4.3,460,1800,506,988
+117,Arctic Delight,Tyumen,Russia,18,165000,68000,97000,4.5,500,2000,543,836
+118,Frosty Treats,Krasnoyarsk,Russia,11,110000,45000,65000,4.2,420,1650,227,791
+119,Ice Cream Dream,Yekaterinburg,Russia,19,170000,70000,100000,4.6,530,2150,301,567
+120,Sweet Scoops,Nizhny Novgorod,Russia,8,140000,58000,82000,4.4,480,1900,382,906
