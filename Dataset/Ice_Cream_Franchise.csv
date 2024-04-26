@@ -1,0 +1,122 @@
+Franchise Name,City,Country,Number of Employees,Revenue,Profit,Expenses,Customer Satisfaction Score,Marketing Spent,Pre-Marketing Visitors,Post-Marketing Visitors
+Ice Cream World,Istanbul,Turkey,25,50000,15000,35000,8,5000,2000,3000
+Chill Ice Cream,Ankara,Turkey,20,45000,12000,33000,7,4500,1800,2500
+Sweet Scoops,Izmir,Turkey,18,42000,11000,31000,7,4000,1700,2400
+Frozen Delights,Bursa,Turkey,15,38000,10000,28000,6,3500,1500,2200
+Sundae Haven,Adana,Turkey,12,35000,9000,26000,6,3000,1400,2000
+Cool Cones,Gaziantep,Turkey,10,32000,8000,24000,5,2800,1300,1900
+Frosty Treats,Konya,Turkey,8,29000,7000,22000,5,2500,1200,1800
+Icy Bliss,Antalya,Turkey,6,26000,6000,20000,4,2200,1100,1600
+Gelato Dreams,Eskisehir,Turkey,5,23000,5000,18000,4,2000,1000,1500
+Dreamy Cream,Izmit,Turkey,5,22000,4500,17500,4,1800,900,1400
+Freeze Zone,Denizli,Turkey,4,21000,4000,17000,3,1600,800,1300
+Scoop Adventures,Samsun,Turkey,4,20000,3500,16500,3,1500,700,1200
+Creamy Creations,Manisa,Turkey,3,19000,3200,15800,3,1400,600,1100
+Chilled Delights,Kayseri,Turkey,3,18000,3000,15000,3,1300,500,1000
+Ice Pop Paradise,Kahramanmaras,Turkey,3,17000,2800,14200,3,1200,400,900
+Cone Craze,Erzurum,Turkey,2,16000,2600,13400,2,1100,300,800
+Arctic Treats,Adiyaman,Turkey,2,15000,2400,12600,2,1000,200,700
+Frosty Flavors,Aydin,Turkey,2,14000,2200,11800,2,900,200,600
+Gelato Galore,Trabzon,Turkey,2,13000,2000,11000,2,800,200,500
+Iced Euphoria,Kirsehir,Turkey,2,12000,1800,10200,2,700,200,400
+Sorbet Sensations,Karaman,Turkey,2,11000,1600,9400,2,600,100,300
+Frozen Frenzy,Balikesir,Turkey,1,10000,1400,8600,1,500,100,200
+Chill Bliss,Sinop,Turkey,1,9500,1200,8300,1,400,100,200
+Sundae Delight,Edirne,Turkey,1,9000,1000,8000,1,400,100,200
+Cool Breeze,Afyonkarahisar,Turkey,1,8500,900,7600,1,400,100,200
+Icy Delights,Rize,Turkey,1,8000,800,7200,1,400,100,200
+Gelato Joy,Corum,Turkey,1,7500,700,6800,1,400,100,200
+Scoopful Paradise,Nevsehir,Turkey,1,7000,600,6400,1,400,100,200
+Creamy Swirls,Aksaray,Turkey,1,6500,500,6000,1,400,100,200
+Frosty Scoops,Bartın,Turkey,1,6000,400,5600,1,400,100,200
+Gelato Italia,Rome,Italy,30,55000,16000,39000,9,5500,2100,3200
+Italian Ice Cream,Milan,Italy,25,52000,15000,37000,8,5200,2000,3100
+Dolce Gelato,Florence,Italy,22,49000,14000,35000,8,4900,1900,3000
+Gusto Gelateria,Venice,Italy,20,46000,13000,33000,7,4600,1800,2900
+Bellissimo Gelato,Naples,Italy,18,43000,12000,31000,7,4300,1700,2800
+Sapore di Gelato,Verona,Italy,16,40000,11000,29000,6,4000,1600,2700
+Gelato Amore,Bologna,Italy,14,37000,10000,27000,6,3700,1500,2600
+Fresco Gelato,Turin,Italy,12,34000,9000,25000,5,3400,1400,2500
+La Dolce Vita,Genoa,Italy,10,31000,8000,23000,5,3100,1300,2400
+Gelato Paradiso,Pisa,Italy,8,28000,7000,21000,4,2800,1200,2300
+Divino Gelato,Catania,Italy,6,25000,6000,19000,4,2500,1100,2200
+Gelato Fantasia,Bari,Italy,5,22000,5000,17000,4,2200,1000,2100
+Fresco Gusto,Vatican City,Italy,5,21000,4500,16500,4,2100,900,2000
+Gelato Fresco,Palermo,Italy,4,20000,4000,16000,3,2000,800,1900
+Gelato Sorriso,Padua,Italy,4,19000,3500,15500,3,1900,700,1800
+Gelato Felice,Perugia,Italy,3,18000,3200,14800,3,1800,600,1700
+Gelato Sogno,Trento,Italy,3,17000,3000,14000,3,1700,500,1600
+Fresco Dolce,Vicenza,Italy,3,16000,2800,13200,3,1600,400,1500
+Gelato Puro,Ravenna,Italy,2,15000,2600,12400,2,1500,300,1400
+Gelato Freschezza,Modena,Italy,2,14000,2400,11600,2,1400,200,1300
+Divino Gusto,Rimini,Italy,2,13000,2200,10800,2,1300,200,1200
+Gelato Buono,Parma,Italy,2,12000,2000,10000,2,1200,200,1100
+Gelato Ricco,Ferrara,Italy,2,11000,1800,9200,2,1100,200,1000
+Gelato del Sole,Bergamo,Italy,1,10000,1600,8400,1,1000,100,900
+Gelato Fresco,Brescia,Italy,1,9500,1400,8100,1,950,100,850
+Gelato Saporito,Mantua,Italy,1,9000,1200,7800,1,900,100,800
+Gelato Soave,Novara,Italy,1,8500,1000,7500,1,850,100,750
+Gelato Stupendo,Varese,Italy,1,8000,900,7100,1,800,100,700
+Gelato delizioso,Como,Italy,1,7500,800,6700,1,750,100,650
+Gelato Frescura,Lecco,Italy,1,7000,700,6300,1,700,100,600
+Gelato Squisito,Pavia,Italy,1,6500,600,5900,1,650,100,550
+Scoop's Delight,New York,USA,35,60000,20000,40000,9,6000,2500,3500
+Frosty Treats,Los Angeles,USA,30,58000,19000,39000,9,5800,2400,3400
+Sweet Swirls,Chicago,USA,28,56000,18000,38000,8,5600,2300,3300
+Creamy Cones,Houston,USA,25,54000,17000,37000,8,5400,2200,3200
+Cool Delights,Phoenix,USA,22,52000,16000,36000,8,5200,2100,3100
+Ice Cream Oasis,Philadelphia,USA,20,50000,15000,35000,7,5000,2000,3000
+Sundae Haven,San Antonio,USA,18,48000,14000,34000,7,4800,1900,2900
+Chill Zone,San Diego,USA,16,46000,13000,33000,7,4600,1800,2800
+Frozen Fantasy,Dallas,USA,14,44000,12000,32000,6,4400,1700,2700
+Frosty Scoops,San Jose,USA,12,42000,11000,31000,6,4200,1600,2600
+Gelato Galaxy,Austin,USA,10,40000,10000,30000,6,4000,1500,2500
+Ice Cream Dream,Indianapolis,USA,9,38000,9000,29000,5,3800,1400,2400
+Scoopful Joy,San Francisco,USA,8,36000,8000,28000,5,3600,1300,2300
+Chilled Creations,Jacksonville,USA,7,34000,7000,27000,5,3400,1200,2200
+Dreamy Delights,Columbus,USA,6,32000,6000,26000,4,3200,1100,2100
+Sorbet Sensations,Charlotte,USA,5,30000,5000,25000,4,3000,1000,2000
+Ice Cream Bliss,Detroit,USA,5,28000,4500,23500,4,2800,900,1900
+Frosty Frenzy,Memphis,USA,4,26000,4000,22000,3,2600,800,1800
+Gelato Galore,Boston,USA,4,24000,3500,20500,3,2400,700,1700
+Sundae Paradise,Seattle,USA,3,22000,3000,19000,3,2200,600,1600
+Chill Chill,Denver,USA,3,20000,2500,17500,3,2000,500,1500
+Frosty Flavors,Baltimore,USA,3,18000,2000,16000,2,1800,400,1400
+Scoop's Delight,Nashville,USA,2,16000,1500,14500,2,1600,300,1300
+Gelato Joy,Milwaukee,USA,2,14000,1000,13000,2,1400,200,1200
+Dreamy Delights,Tucson,USA,2,12000,800,11200,2,1200,200,1100
+Sorbet Sensations,Portland,USA,2,10000,600,9400,2,1000,200,1000
+Frosty Frenzy,Las Vegas,USA,1,8000,400,7600,1,800,100,900
+Gelato Galore,Atlanta,USA,1,6000,200,5800,1,600,100,800
+Sundae Paradise,Miami,USA,1,4000,100,3900,1,400,100,700
+Chill Chill,New Orleans,USA,1,2000,50,1950,1,200,100,600
+Es Krim Enak,Jakarta,Indonesia,30,55000,16000,39000,9,5500,2100,3200
+Sorbet Suka,Bandung,Indonesia,25,52000,15000,37000,8,5200,2000,3100
+Gelato Gurih,Surabaya,Indonesia,22,49000,14000,35000,8,4900,1900,3000
+Es Krim Lezat,Medan,Indonesia,20,46000,13000,33000,7,4600,1800,2900
+Sorbet Segar,Makassar,Indonesia,18,43000,12000,31000,7,4300,1700,2800
+Gelato Gemilang,Bandar Lampung,Indonesia,16,40000,11000,29000,6,4000,1600,2700
+Es Krim Bahagia,Pontianak,Indonesia,14,37000,10000,27000,6,3700,1500,2600
+Sorbet Sari,Jambi,Indonesia,12,34000,9000,25000,5,3400,1400,2500
+Gelato Gembira,Padang,Indonesia,10,31000,8000,23000,5,3100,1300,2400
+Es Krim Lezat,Balikpapan,Indonesia,8,28000,7000,21000,4,2800,1200,2300
+Sorbet Sejuk,Semarang,Indonesia,6,25000,6000,19000,4,2500,1100,2200
+Gelato Enak,Batam,Indonesia,5,22000,5000,17000,4,2200,1000,2100
+Es Krim Lezat,Bekasi,Indonesia,5,21000,4500,16500,4,2100,900,2000
+Sorbet Segera,Palembang,Indonesia,4,20000,4000,16000,3,2000,800,1900
+Gelato Segar,Surakarta,Indonesia,4,19000,3500,15500,3,1900,700,1800
+Es Krim Lezat,Tangerang,Indonesia,3,18000,3200,14800,3,1800,600,1700
+Sorbet Suka,Denpasar,Indonesia,3,17000,3000,14000,3,1700,500,1600
+Gelato Gurih,Samarinda,Indonesia,3,16000,2800,13200,3,1600,400,1500
+Es Krim Bahagia,Tasikmalaya,Indonesia,2,15000,2600,12400,2,1500,300,1400
+Sorbet Sari,Pekanbaru,Indonesia,2,14000,2400,11600,2,1400,200,1300
+Gelato Gembira,Serang,Indonesia,2,13000,2200,10800,2,1300,200,1200
+Es Krim Lezat,Tegal,Indonesia,2,12000,2000,10000,2,1200,200,1100
+Sorbet Sejuk,Cirebon,Indonesia,2,11000,1800,9200,2,1100,200,1000
+Gelato Enak,Kendari,Indonesia,1,10000,1600,8400,1,1000,100,900
+Es Krim Bahagia,Bogor,Indonesia,1,9500,1400,8100,1,950,100,850
+Sorbet Suka,Solo,Indonesia,1,9000,1200,7800,1,900,100,800
+Gelato Gurih,Balikpapan,Indonesia,1,8500,1000,7500,1,850,100,750
+Es Krim Lezat,Batam,Indonesia,1,8000,900,7100,1,800,100,700
+Sorbet Sari,Manado,Indonesia,1,7500,800,6700,1,750,100,650
+Gelato Gembira,Palangkaraya,Indonesia,1,7000,700,6300,1,700,100,600
